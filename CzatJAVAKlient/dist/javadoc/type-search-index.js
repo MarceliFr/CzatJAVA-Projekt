@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"czatjava","l":"CzatClient"},{"p":"czatjava","l":"Login"},{"p":"czatjava","l":"MessagePane"},{"p":"czatjava","l":"MessageWindowListener"},{"p":"czatjava","l":"Register"},{"p":"czatjava","l":"Test"},{"p":"czatjava","l":"UsersListPane"}];updateSearchResults();
