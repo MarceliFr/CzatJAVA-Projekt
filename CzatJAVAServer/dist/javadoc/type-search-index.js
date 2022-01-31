@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"czatjava","l":"BaseConnect"},{"p":"czatjava","l":"Client"},{"p":"czatjava","l":"CzatSerwer"},{"p":"czatjava","l":"Server"},{"p":"czatjava","l":"ServerWorker"}];updateSearchResults();
